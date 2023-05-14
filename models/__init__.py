@@ -7,6 +7,4 @@ from models.engine.file_storage import FileStorage
 
 # Create a new instance of "FileStorage" named "storage".
 storage = FileStorage()
-
-# Reload the "storage".
 storage.reload()
