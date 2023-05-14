@@ -7,6 +7,7 @@ Classes:
     FileStorage
 """
 
+
 class FileStorage:
     """A class for serializing and deserializing Python objects"""
 
